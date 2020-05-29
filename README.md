@@ -14,7 +14,7 @@ In the project file, `npm run build-storybook`
 
 ## Storybook Link:  
 
-
+https://ucsb-cs48-s20.github.io/project-s2-t2-free-storybook/?path=/story/appfooter--footer
 
 ## For More Information / Instructions:  
 
