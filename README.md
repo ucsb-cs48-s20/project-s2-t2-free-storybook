@@ -1,5 +1,11 @@
 # project-s2-t2-free-storybook
 
+Functioning Stories: AppFooter, AppNavbar, CreateGroupForm, FindGroupForm, Layout, NewEventsForm  
+Functioning Knobs: AppNavbar, Layout  
+
+Stories for Empty Tables: FreeTime, GroupsTable, ScheduleTable  
+Problem Stories: JoinLeaveButton, MembersFreeTime, MembersList
+
 ## To update the Repo:
 
 In the project file, `npm run build-storybook`
