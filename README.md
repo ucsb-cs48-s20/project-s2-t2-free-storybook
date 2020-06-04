@@ -4,7 +4,7 @@
 
 In the project file, `npm run build-storybook`
 
-`cd ../project-idea-reviewer-nextjs-storybook`
+`cd ../project-s2-t2-free-storybook`
 
 `git add .`
 
